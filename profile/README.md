@@ -2,15 +2,6 @@
 
 Welcome to the official GitHub organization for **Persian-Tools**. Our mission is to empower developers by creating and maintaining a comprehensive suite of high-quality, open-source libraries for the Persian language. Our tools are designed to be high-performance, easy to use, and available across a wide range of programming languages and frameworks.
 
-## What We Offer
-
-Our libraries offer a wide range of functionalities to address the complexities of the Persian language in software development. Common features include:
-
-  - **Validation:** Robust validators for Iranian National ID (`Code Melli`), bank card numbers, IBAN (`Sheba`), and more.
-  - **Number Conversion:** Utilities to convert numbers to words (`Adad be Harf`), words to numbers, and switch between Persian and English digits.
-  - **Text & String Utilities:** Tools for fuzzy string matching and other language-specific text manipulations.
-  - **UI Components:** Specialized components like a mobile-friendly Persian date picker for React.
-
 ## Our Ecosystem
 
 Our ecosystem is constantly growing. Below are our core libraries and framework-specific tools.
